@@ -1,0 +1,1 @@
+"mediapipe==0.10.14\nnumpy==2.1.1\nopencv-contrib-python==4.10.0.84" 
