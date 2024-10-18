@@ -1,7 +1,7 @@
 # Exposici-n-Parcial-2
 Integrantes:
-Carlos Eduardo García Castillo
-Steven Ariel González Diaz
+Carlos Eduardo García Castillo,
+Steven Ariel González Diaz,
 Herson Exequiel Villatoro Amaya
 
 """
